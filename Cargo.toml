@@ -1,0 +1,14 @@
+[dependencies]
+tokio = { version = "1.4.0", features = ["full"] }
+
+[lib]
+name = "algorithmex"
+
+[package]
+name = "algorithm-ex"
+version = "0.1.0"
+edition = "2021"
+authors = ["lamhai1401 <lamthanhhai141@gmail.com>"]
+readme = "README.md"
+homepage = "github.com/lamhai1401/algorithm-ex"
+repository = "github.com/lamhai1401/algorithm-ex"
